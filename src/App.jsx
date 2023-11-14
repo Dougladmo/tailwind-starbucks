@@ -1,12 +1,13 @@
 import Header from "./components/Header"
+import UncontrolledExample from "./components/Slider"
 
 const App = () => {
   return (
     <div>
       <Header />
-      <div className="Slider w-full">
-      </div>
+      <UncontrolledExample />
     </div>
+    
   )
 }
 

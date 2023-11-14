@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      'sans': ['Helvetica', 'Arial', 'sans-serif'],
+      'sans': ['Open-sans', 'sans-serif'],
     }
   },
   plugins: [],
